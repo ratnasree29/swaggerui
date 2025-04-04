@@ -1,4 +1,4 @@
-package com.ratna.example.swaggerui.controllers;
+package com.ratna.example.swaggerui.models;
 
 public class CreateUserResponse {
 
